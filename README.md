@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-View projects for past work ... I try to update this during vac ...
+ I try to update this during vac ... my work involves
 
-- NLP & Text Analytics workflows for employees' feedback: Continuos on various topics
-- Scenario simulations & forecasting: Market trends and operational data
+- NLP & Text Analytics: For employees' feedback on continuous basis and text stored across various platforms (e.g. Glassdoor) and internal business systems
+- Scenario simulations & forecasting: Market trends and operational data for workforce planning
 - Predictive workflows: employee attrition and proactive engagement
-- Analytics & Reporting : Conusming data at scale from numerous sources and telling business stories
+- Analytics & Reporting : Conusming data at scale from numerous sources and telling business stories on various topics
 - Embedded Analytics: In common workflows to maximize adoption and nudge for actions
+- Cloud arch. for machine learning/data consumption: On Azure (Postgres, Storage Containers, LogicApps, CognitiveServices, VMs, AppServices, DataBrick, Dataiku, API endpoints)
 
 
 # Project Charlie - Predicting Employees' Attrition
