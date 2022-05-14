@@ -21,9 +21,7 @@
 
 
 ## Project Charlie - Predicting Employees' Attrition
-- Most attrition prediction projects are not that useful as by the time the model ranks an employee ... it's too late, Charlie is designed to forecast with 6-12 months window for pro-active engagement
-- Ensemble model taking internal and external drivers
+- Most attrition prediction projects are not that useful as by the time the model ranks an employee ... it's too late, Charlie is designed to forecast with 6-12 months window for pro-active engagement (Ensemble model taking internal and external drivers) 
 
 ## Talent Nexus - myTeam monthly insights to improve retention and performance
-- Large companies typically have numerous business systems that managers have to interact with resulting in burden to view and action engagements with their team.
-- TN project ingest data at scale from all these systems into a central pond and transforms it to insights/nudges for managers to take actions.
+- Embedding insights to managers in emails and microsoft teams to drive engagement with their employees
