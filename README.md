@@ -35,6 +35,9 @@
 ### Performance reviews NLP & Text Analytics
 - Insights and benchmarks for managers for self-reflections and improvements
 
+### Forecasting and optimizing assets deployment across North America
+- Considering inventory levels, cost and service level agreement with customers
+
 ### Continuous digital listening with pulse surveys and NLP/Stats/Analytics
 - Key business topics to inform strategic decisions
 
