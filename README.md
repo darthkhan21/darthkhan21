@@ -34,3 +34,6 @@
 
 ## Continuous digital listening with pulse surveys and NLP/Stats/Analytics
 - Key business topics to inform strategic decisions
+
+## Gender-pay gap benchmarking and analytics
+- For 100+ countries, establishing a methodology for fair benchmarking
