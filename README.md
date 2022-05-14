@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I try to update this during vac ... my work involves
+ I try to update this during vac ... current/past work involves
 
 - NLP & Text Analytics: For employees' feedback on continuous basis and text stored across various platforms (e.g. Glassdoor) and internal business systems
 - Scenario simulations & forecasting: Market trends and operational data for workforce planning
