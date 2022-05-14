@@ -28,3 +28,9 @@
 
 ## Price Elasticity & Customers Segmentation
 - For multi business lines service business involving 100s of customers (B2b)
+
+## Performance reviews NLP & Text Analytics
+- Insights and benchmarks for managers for self-reflections and improvements
+
+## Continuous digital listening with pulse surveys and NLP/Stats/Analytics
+- Key business topics to inform strategic decisions
