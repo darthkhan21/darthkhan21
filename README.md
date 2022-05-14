@@ -31,6 +31,9 @@
 
 ### Social media platforms for Talent Market Intelligence
 - LinkedIn, Glassdoor and others
+-
+### Project Providence 
+- Ingesting data from numerous business systems and applications into central pond for productization
 
 ### Performance reviews NLP & Text Analytics
 - Insights and benchmarks for managers for self-reflections and improvements
