@@ -25,3 +25,6 @@
 
 ## Talent Nexus - myTeam monthly insights to improve retention and performance
 - Embedding insights to managers in emails and microsoft teams to drive engagement with their employees
+
+## Project Orion - Simulating/Forcasting Workforce
+- Taking business strategy input and various parameters that impact workforce demand (e.g. attrition, productivity, automation) and supply (diversity, skill, mobility) to deliver a probabilistic output with constrains
