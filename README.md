@@ -15,6 +15,11 @@
 - Ensure all projects have legitimate business use case, protect employees' data privacy
 - Comply with global regulations (e.g. GDPR, Unions)
 
+
+## Impact of work-schedule and pattern on sustainability (Carbon footprint)
+- Simulating carbon impact of various work models/patterns (e.g. remote, partial) taken into account actual office employees data and leveraging google apis + stats
+
+
 ## Project Charlie - Predicting Employees' Attrition
 - Most attrition prediction projects are not that useful as by the time the model ranks an employee ... it's too late, Charlie is designed to forecast with 6-12 months window for pro-active engagement
 - Ensemble model taking internal and external drivers
