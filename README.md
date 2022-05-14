@@ -29,6 +29,9 @@
 ## Price Elasticity & Customers Segmentation
 - For multi business lines service business involving 100s of customers (B2b)
 
+## Social media platforms for Talent Market Intelligence
+- LinkedIn, Glassdoor and others
+
 ## Performance reviews NLP & Text Analytics
 - Insights and benchmarks for managers for self-reflections and improvements
 
