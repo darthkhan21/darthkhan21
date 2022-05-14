@@ -10,7 +10,12 @@
 - Cloud arch. for machine learning/data consumption: On Azure (Postgres, Storage Containers, LogicApps, CognitiveServices, VMs, AppServices, DataBrick, Dataiku, API endpoints)
 
 
-# Project Charlie - Predicting Employees' Attrition
+## Data Privacy & Ethical AI in HR Domain
+- Creating standards, processes and guidelines in collaboration with legal and compliance function.
+- Ensure all projects have legitimate business use case, protect employees' data privacy
+- Comply with global regulations (e.g. GDPR, Unions)
+
+## Project Charlie - Predicting Employees' Attrition
 - Most attrition prediction projects are not that useful as by the time the model ranks and employee ... it's too late
 - Charlie is designed to forecast with 6-12 months window for pro-active engagement
 - Ensemble model
